@@ -2,7 +2,7 @@
 <h3 align="center">I craft web experiences from frontend to backend</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@venomhare?theme=booru-lewd" alt="venomhare's profile views" />
+  <img src="https://count.getloli.com/get/@venomhare?theme=sketch-1" alt="venomhare's profile views" />
 </p>
 
 ---
@@ -57,4 +57,5 @@
 <p align="center">
   <a href="mailto:sarthakkadam147@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/venomhare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/KadamSarthak"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
