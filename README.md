@@ -38,14 +38,6 @@
 
 ---
 
-### 🌍 Not Just Code
-
-- ✍️ Teaching JavaScript and Web Dev to beginners
-- 🌐 Running a travel agency: **Ocean Pacific Holidays**
-- 🧰 Exploring creative WordPress + JS integrations
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
