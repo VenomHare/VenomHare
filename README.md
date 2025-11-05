@@ -8,10 +8,9 @@
 ---
 
 ### 🧠 About Me
-
-- 🔭 I'm building: **PowerPay**, a wallet based payment system  
+ 
 - 🧪 Exploring full-stack JS, automation, and AI integrations  
-- 📚 Currently learning: **Rust**, **Rate Limiting**, and **Agent SDKs**  
+- 📚 Currently learning: **Rust**, **Applied AI**and **Agent SDKs**  
 - 💡 I love turning ideas into minimal, fast, and beautiful interfaces  
 - 📫 Reach me at: `sarthakkadam147@gmail.com` or via [GitHub Discussions](https://github.com/venomhare)
 
@@ -59,3 +58,4 @@
   <a href="https://github.com/venomhare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/KadamSarthak"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
