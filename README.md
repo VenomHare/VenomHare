@@ -1,49 +1,62 @@
-# Sarthak Kadam
+<h1 align="center">Hi 👋, I'm Sarthak Kadam</h1>
+<h3 align="center">I craft web experiences from frontend to backend</h3>
 
-**Full-stack developer building at the intersection of web & blockchain**
-
-```typescript
-const sarthak = {
-  code: ["TypeScript", "React", "Node.js", "Rust"],
-  exploring: ["Web3", "Smart Contracts", "AI Agents"],
-  currentFocus: "Building decentralized experiences",
-  debugWith: ["chai", "stackoverflow", "curiosity"]
-};
-```
-
-## 🔭 What I'm Building
-
-- 🌐 Full-stack web applications (MERN/PERN)
-- ⛓️ Learning blockchain & Web3 development
-- 🤖 Experimenting with AI integrations & agent SDKs
-- 🦀 Exploring Rust for performance-critical systems
-
-## 🛠 Core Stack
-
-**Frontend Architecture**  
-React · Next.js · TypeScript · Vite 
-State management · Component design systems · Performance optimization
-
-**Backend & Systems**  
-Node.js · Express · PostgreSQL · MongoDB · Supabase  
-REST APIs · Auth flows (JWT/OAuth) · Rate limiting · Caching  
-WebSockets · Background jobs · Docker
-
-**Currently Exploring**  
-Solana · Ethereum · Rust . React Native
-Smart contracts · Agent frameworks
-
-## 📫 Connect
-
-[**Email**](mailto:sarthakkadam147@gmail.com) · [**Twitter**](https://x.com/KadamSarthak) · [**LinkedIn**](https://linkedin.com/in/sarthak00dev) 
+<p align="center">
+  <img src="https://count.getloli.com/get/@venomhare?theme=sketch-1" alt="venomhare's profile views" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VenomHare/VenomHare/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomhare&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-</div>
+### 🧠 About Me
+ 
+- 🧪 Exploring full-stack JS, automation, and AI integrations  
+- 📚 Currently learning: **Rust**, **Applied AI** and **Agent SDKs**  
+- 💡 I love turning ideas into minimal, fast, and beautiful interfaces  
+- 📫 Reach me at: `sarthakkadam147@gmail.com` or via [GitHub Discussions](https://github.com/venomhare)
 
-<div align="center">
-  <sub>I turn bugs into features. Currently debugging the future of web3.</sub>
-</div>
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=yellow)
+
+#### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🛠 Dev Tools
+![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venomhare&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomhare&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🧩 Fun Fact
+> I turn bugs into features.  
+> And I debug with chai & stackoverflow on one screen, VSCode on the other.
+
+---
+
+### 🧭 Let's Connect
+<p align="center">
+  <a href="mailto:sarthakkadam147@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/venomhare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/KadamSarthak"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+
